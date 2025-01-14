@@ -24,7 +24,7 @@ See a pattern? We humans are fantastic at underestimating change, or at least be
 
 When I first started exploring AI back in 2019, I was teaching computers to play Snake and building models for linear regression (fancy talk for teaching computers to draw really accurate trend lines). Picture trying to teach calculus to a calculator – technically possible, but with a lot of "it's not you, it's me" moments.
 
-Fast forward to today, and while we haven't quite reached the "Rosie the Robot making your dinner while cleaning the house" stage (sorry, Jetsons fans), we're definitely in interesting territory. Let's break down where AI actually stands – and spoiler alert: flying cars aren't included yet either.
+Fast forward to today, and while we haven't quite reached the "Rosie the Robot making your dinner while cleaning the house" stage (sorry, Jetsons fans), we're definitely in interesting territory. Let's break down where AI actually stands – flying cars not included (yet).
 
 ### The Five Stages of AI (We're at a Fascinating Crossroads)
 
@@ -32,7 +32,7 @@ Fast forward to today, and while we haven't quite reached the "Rosie the Robot m
 
 2. **Reasoners (Emerging)**: Leading AI labs are developing models that can actually reason through problems like a philosophy major at 3 AM. If you haven't heard about these models yet, well... let's just say some of us are already pushing their limits while others are still trying to figure out if AI can write their next tweet. Time to level up that tech awareness, or make friends with someone who is.
 
-3. **Agents (Just Beginning)**: We're taking our first steps into AI that can actually do things independently. Think scheduling assistants that actually schedule and automation tools that chain together complex tasks. Like ambitious new graduates, they're brilliant at specific assignments but get adorably lost if you ask them to "just figure it out." Best stick to letting them handle the structured stuff for now.
+3. **Agents (Just Beginning)**: We're taking our first steps into AI that can actually do things independently. Think scheduling assistants that actually schedule and automation tools that chain together complex tasks. Like ambitious new graduates, they're brilliant at specific assignments but get lost if you ask them to "just figure it out." Best stick to letting them handle the structured stuff for now.
 
 4. **Innovators (Future)**: Eventually, AI will help invent new things. But for now, it's more "here's 101 variations on a chair design" than "I've just revolutionized physics."
 
